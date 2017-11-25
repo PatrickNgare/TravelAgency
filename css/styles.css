@@ -3,14 +3,14 @@ a.link{
   padding: 30px 50px;
 }
 
-.tropical{
+.column1{
   color: #7dc410;
   font-family: fantasy;
-  color: #f7325e;
+  
 }
-.popular{
+.column2{
 
-  color: #641E16;
+  color: ##767575  ;
   font-family: monospace;;
-  color:  #E74C3C;
+
 }
